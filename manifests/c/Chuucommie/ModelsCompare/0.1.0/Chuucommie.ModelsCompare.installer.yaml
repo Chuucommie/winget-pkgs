@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Chuucommie.ModelsCompare
+PackageVersion: 0.1.0
+Installers:
+- Architecture: x64
+  InstallerType: portable
+  InstallerUrl: https://github.com/Chuucommie/modelscompare/releases/download/v0.1.0/ModelsCompare.exe
+  InstallerSha256: CCD5D674E2ECAFBD9EDACC515FC947CD6486D555FAB2C21CB28341AE4B5D48EA
+  Commands:
+  - ModelsCompare
+ManifestType: installer
+ManifestVersion: 1.12.0

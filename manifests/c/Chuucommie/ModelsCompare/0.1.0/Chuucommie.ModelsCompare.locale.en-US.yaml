@@ -1,0 +1,20 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Chuucommie.ModelsCompare
+PackageVersion: 0.1.0
+PackageLocale: en-US
+Publisher: Chuucommie
+PublisherUrl: https://github.com/Chuucommie
+PackageName: ModelsCompare
+PackageUrl: https://github.com/Chuucommie/modelscompare
+License: Proprietary
+ShortDescription: Browse live GitHub Copilot model prices in an interactive terminal.
+Tags:
+- AI
+- GitHub Copilot
+- pricing
+- models
+- terminal
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
