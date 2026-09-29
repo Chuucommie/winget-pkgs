@@ -1,0 +1,15 @@
+PackageIdentifier: Chuucommie.ModelsCompare
+PackageVersion: 0.1.0
+Installers:
+  - Architecture: x64
+    Platform:
+      - Windows.Desktop
+    InstallerType: zip
+    NestedInstallerType: portable
+    NestedInstallerFiles:
+      - RelativeFilePath: ModelsCompare.exe
+        PortableCommandAlias: modelscompare
+    InstallerUrl: https://github.com/Chuucommie/modelscompare/releases/download/v0.1.0/modelscompare-windows-x64.zip
+    InstallerSha256: ca971e723e057f2007433c07ee22cdc94359d5fd0795bb01021f9623ac6c74b9
+ManifestType: installer
+ManifestVersion: 1.6.0

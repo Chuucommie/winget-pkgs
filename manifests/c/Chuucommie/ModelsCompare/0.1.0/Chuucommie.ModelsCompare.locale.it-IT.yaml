@@ -1,0 +1,20 @@
+PackageIdentifier: Chuucommie.ModelsCompare
+PackageVersion: 0.1.0
+PackageLocale: it-IT
+Publisher: Chuucommie
+PublisherUrl: https://github.com/Chuucommie
+PublisherSupportUrl: https://github.com/Chuucommie/modelscompare/issues
+Author: Chuucommie
+PackageName: ModelsCompare
+PackageUrl: https://github.com/Chuucommie/modelscompare
+License: Proprietary
+ShortDescription: Confronta in terminale i prezzi live dei modelli GitHub Copilot.
+Description: Browser interattivo da terminale per consultare i prezzi aggiornati dei modelli GitHub Copilot. Richiede una connessione Internet.
+ReleaseNotesUrl: https://github.com/Chuucommie/modelscompare/releases/tag/v0.1.0
+Tags:
+  - ai
+  - copilot
+  - pricing
+  - terminal
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
